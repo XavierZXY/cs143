@@ -1,3 +1,10 @@
+bin
+lib
+etc
+include
+handouts
+src
+examples
 # Prerequisites
 *.d
 
